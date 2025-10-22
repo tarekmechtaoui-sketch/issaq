@@ -4,7 +4,7 @@ import Orders from './Orders';
 import Products from './Products';
 import Categories from './Categories';
 import DashboardHome from './DashboardHome';
-import '../styles/Dashboard.css';
+import '../../styles/Dashboard.css';
 
 type ActiveTab = 'dashboard' | 'orders' | 'products' | 'categories';
 

@@ -1,6 +1,6 @@
 import React from 'react';
-import { MenuItem } from '../types';
-import '../styles/Sidebar.css';
+import { MenuItem } from '../../types';
+import '../../styles/Sidebar.css';
 
 interface SidebarProps {
   activeTab: string;
